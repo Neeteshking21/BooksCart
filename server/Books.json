@@ -1,0 +1,26 @@
+{
+    "1": {
+        "id": 1,
+        "Book_Name": "Indomitable",
+        "Author": "Arundhati Bhattacharya",
+       "Prize": "100"
+    },
+    "2": {
+        "id": 2,
+        "Book_Name": "Indomitable",
+        "Author": "Arundhati Bhattacharya",
+       "Prize": "100"
+    },
+    "3": {
+        "id": 3,
+        "Book_Name": "Indomitable",
+        "Author": "Arundhati Bhattacharya",
+       "Prize": "100"
+    },
+    "4":{
+        "id": 4,
+        "Book_Name": "Indomitable",
+        "Author": "Arundhati Bhattacharya",
+       "Prize": "100"
+    }
+}
